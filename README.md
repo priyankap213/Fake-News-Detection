@@ -1,7 +1,7 @@
 # Fake-News-Detection
 
 ## Step To Launch This Project:-
-1. Intsall Flask.
+1. Install Flask.
 2. Open this folder with Command Prompt.
 3. Create Development Server.
 
